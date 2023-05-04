@@ -5,6 +5,5 @@ Rencana Cadangan
 Aplikasi Absensi untuk Karyawan Lembaga
 - Buat Absensi online di Website
 Versi Website
-- Buat Cloud Sendiri
 - Buat Game Android sederhana
-- Belajar Code Baru
++ Game Tema Ular
