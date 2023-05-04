@@ -1,7 +1,7 @@
 Rencana Cadangan
 - Buat Aplikasi Android
-+ Warna nya Variatif
-+ Munculkan Icon
++ Simple dan Minimalis
++ 2 Warna Hitam Putih
 Aplikasi Absensi untuk Karyawan Lembaga
 - Buat Absensi online di Website
 Versi Website
