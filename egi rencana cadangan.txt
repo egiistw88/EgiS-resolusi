@@ -1,0 +1,6 @@
+Rencana Cadangan
+- Buat Aplikasi Android
+Aplikasi Absensi untuk Karyawan Lembaga
+- Buat Absensi online di Website
+Versi Website
+- Buat Cloud Sendiri
