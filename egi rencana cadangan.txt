@@ -1,0 +1,4 @@
+Rencana Cadangan
+- Buat Aplikasi Android
+- Buat Absensi online di Website
+- Buat Cloud Sendiri
