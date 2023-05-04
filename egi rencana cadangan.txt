@@ -4,3 +4,4 @@ Aplikasi Absensi untuk Karyawan Lembaga
 - Buat Absensi online di Website
 Versi Website
 - Buat Cloud Sendiri
+- Buat Game Android sederhana
