@@ -1,2 +1,2 @@
-# EgiS-resolusi
-Repository untuk menyimpan rencana EgiS kedepannya
+# egi-resolusi
+Repository untuk menyimpan rencana egi kedepannya
